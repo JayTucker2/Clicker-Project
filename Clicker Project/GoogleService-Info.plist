@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>622845894714-h4j9h0b1q3cknp21qfgobd653o74j7pv.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.622845894714-h4j9h0b1q3cknp21qfgobd653o74j7pv</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAB2Yu4yuIKbanVxe-yk1y9kuxOqwn8X74</string>
+	<key>GCM_SENDER_ID</key>
+	<string>622845894714</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>clc.Clicker-Project</string>
+	<key>PROJECT_ID</key>
+	<string>clicker-project-f14a1</string>
+	<key>STORAGE_BUCKET</key>
+	<string>clicker-project-f14a1.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:622845894714:ios:c856c4c5b924f36eba9503</string>
+</dict>
+</plist>
