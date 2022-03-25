@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B91E1DDE27EB51EB003DBA19 /* Leaderboards.swift in Sources */ = {isa = PBXBuildFile; fileRef = B91E1DDD27EB51EB003DBA19 /* Leaderboards.swift */; };
 		B9A0871427E0C15D005E6B05 /* FirebaseAnalytics in Frameworks */ = {isa = PBXBuildFile; productRef = B9A0871327E0C15D005E6B05 /* FirebaseAnalytics */; };
 		B9A0871627E0C15D005E6B05 /* FirebaseAuth in Frameworks */ = {isa = PBXBuildFile; productRef = B9A0871527E0C15D005E6B05 /* FirebaseAuth */; };
 		B9A0871827E0C15D005E6B05 /* FirebaseDatabase in Frameworks */ = {isa = PBXBuildFile; productRef = B9A0871727E0C15D005E6B05 /* FirebaseDatabase */; };
@@ -23,6 +24,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		B91E1DDD27EB51EB003DBA19 /* Leaderboards.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Leaderboards.swift; sourceTree = "<group>"; };
 		B9A0871F27E0C69A005E6B05 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		B9B9484C27DF7BC80083E22D /* Clicker Project.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Clicker Project.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B9B9484F27DF7BC80083E22D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -74,6 +76,7 @@
 				B9B9485127DF7BC80083E22D /* SceneDelegate.swift */,
 				B9B9485327DF7BC80083E22D /* ViewController.swift */,
 				B9B9485527DF7BC80083E22D /* Main.storyboard */,
+				B91E1DDD27EB51EB003DBA19 /* Leaderboards.swift */,
 				B9B9485B27DF7BCA0083E22D /* Assets.xcassets */,
 				B9B9485D27DF7BCA0083E22D /* LaunchScreen.storyboard */,
 				B9B9486027DF7BCA0083E22D /* Info.plist */,
@@ -168,6 +171,7 @@
 				B9B9485427DF7BC80083E22D /* ViewController.swift in Sources */,
 				B9B9485027DF7BC80083E22D /* AppDelegate.swift in Sources */,
 				B9B9485227DF7BC80083E22D /* SceneDelegate.swift in Sources */,
+				B91E1DDE27EB51EB003DBA19 /* Leaderboards.swift in Sources */,
 				B9B9485A27DF7BC80083E22D /* Clicker_Project.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
